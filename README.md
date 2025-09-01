@@ -1,6 +1,6 @@
 # UI Executor Agent (AutoGen + Playwright MCP)
 
-Execute high‑level UI automation steps by combining AutoGen's Workbench with a Playwright MCP server. The agent reads your steps (JSON or text), connects to the MCP server over SSE, and drives the browser using the exposed Playwright tools.
+Execute high‑level UI automation steps by combining AutoGen's Workbench with a Playwright MCP server. The agent reads your steps (JSON or text), connects to the MCP server over SSE, and drives the browser using the exposed Playwright tools
 
 - Reference: [AutoGen Workbench (with MCP)](https://microsoft.github.io/autogen/stable/user-guide/core-user-guide/components/workbench.html)
 
